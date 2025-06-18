@@ -1,6 +1,6 @@
 # 🧾 Tip & Tax Calculator – Realistic Receipt Generator 
 
-This terminal-based Python program helps users calculate the total bill after applying a tip and tax. Designed for realism, it keeps decimal precision just like a real point-of-sale system. No drama, just decimals.
+This terminal-based Python program helps users calculate the total bill after applying a tip and tax. Designed for realism, it keeps decimal precision just like a real point-of-sale system. 
 
 ## 🎯 What It Does
 - Accepts user input for subtotal, tip %, and tax %.
@@ -9,7 +9,7 @@ This terminal-based Python program helps users calculate the total bill after ap
 - No shady rounding-up or "mystery fees."
 
 ## 🧪 Skills Used
-- `input()` and `float()` for real-time data collection
+- input() and float() for real-time data collection
 - Arithmetic operators and percentage logic
 - f-strings for clean output formatting
 - Modular, clear code with strong user flow
